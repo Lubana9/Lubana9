@@ -9,7 +9,8 @@
 - 💬 Ask me about **React, CMS**
 <br><br>
 - 📫 How to reach me **lubanabu98@gmail.com**
-
+<br><br>
+- 👩‍💻 Portfolio **https://lubana-portfolio.netlify.app**
 
 
 
