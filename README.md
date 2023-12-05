@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lubana</h1>
+<!--<h1 align="center">Hi 👋, I'm Lubana</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubana9&label=Profile%20views&color=0e75b6&style=flat" alt="lubana9" /> </p>
 
@@ -25,6 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubana9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
+-->
 
 
